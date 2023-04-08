@@ -1,0 +1,75 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Breakfastworldwide</title>
+    <link rel="stylesheet" href="style.css";> 
+</head>
+<body>
+    <header>
+        <p><a href="Breakfastworldwide.html">Breakfast Worldwide</a></p>
+        <nav>
+            <ul>  
+                <li><a href="Paesi.html">Paesi</a></li>
+                <li><a href="Home">Home</a></li>
+                <li><a href="contatti.html">Contatti</a></li></ul>
+        </nav>
+    </header>
+    <section class="definizione"> 
+        <h2> colazione
+            /co·la·zió·ne/
+            sostantivo femminile
+            Il primo pasto del mattino (detto anche prima c., in contrapposizione alla seconda c., cioè il pasto di mezzogiorno). </h2>
+    </section>
+
+    <section class="hero"> 
+        <h1> Tu dove vai a colazione? </h1>
+    </section>
+
+<main>
+<div class="1">
+    <p class="germania">🇧🇪 frühstück </p>
+    <p class="icon1"> 🥨🌭🥚🧀</p>
+    <p class="descr1">Wurstel, formaggi e pane di segale.
+        Sono questi gli ingredienti per una 
+        colazione tipicamente tedesca. </p>
+
+</div>
+
+<div class="2"> 
+    <p class="inghilterra">🇬🇧 breakfast </p>
+    <p class="icone2">🍅🍳🥓</p>
+    <p class="descr2">Fagioli, salsiccia, bacon, uova, funghi,
+        hash browns e pane tostato. Il tutto accompagnato da una fumante tazza di tè.</p>
+</div>
+
+<div class="3"> 
+    <p class="america">🇺🇸 breakfast</p>
+    <p class="icon3">🥞🥓🧈🫐</p>
+    <p class="descr3">Ottimi pancake sormontati da sciroppo d’acero o confettura ai mirtilli – e ovviamente bacon 
+        e uova strapazzate.</p>
+</div>
+
+<div class="4"> 
+    <p class="francia">🇫🇷 petite dejeuner</p>
+    <p class="icon4">🥐🍮🍯🍫</p>
+    <p class="descr4">In Francia la colazione è croissant.
+        Ce n’è per tutti i gusti, dal dolce al salato. Immancabile un cafè au lait accanto.</p>
+</div>
+
+<div class="5"> 
+    <p class="olanda">🇳🇱ontbijt</p>
+    <p class="icon5">🧇🍯🍎🍞</p>
+    <p class="descr5">Serviti solitamente con uno sciroppo  di nome stroop, i pancakes alla mela sono una combinazione di dolce, aspro e salato.</p>
+</div>
+</main>   
+</body>
+<footer> 
+    <p class="frase">“La felicità dipende tutta
+    da una colazione 
+    tranquilla” </p>
+<p class="autore"> John Gunther</p></footer></footer>
+</html>
